@@ -1,0 +1,35 @@
+<resources>
+    <string name="search">Enter the first 6 to 8 digits (BIN)</string>
+    <string name="result_search">The result will be displayed here</string>
+    <string name="before">Запрос \"</string>
+    <string name="after">\"  не дал результатов</string>
+    <string name="text_country">Country:   </string>
+    <string name="text_country_name">name</string>
+    <string name="text_coordinates">"Coordinates: "</string>
+    <string name="text_latitude">latitude</string>
+    <string name="lat">lat_value</string>
+    <string name="lon">lon_value</string>
+    <string name="text_longitude">longitude</string>
+    <string name="card_type">Card type:   </string>
+    <string name="text_card_type">type</string>
+    <string name="bank_information">Bank information</string>
+    <string name="name_of_bank">Bank name:</string>
+    <string name="text_bank_name">bank name</string>
+    <string name="url_text">"URL: "</string>
+    <string name="url_of_bank">bank url</string>
+    <string name="phone_text">"Phone: "</string>
+    <string name="phone_of_bank">phone</string>
+    <string name="city_text">City:</string>
+    <string name="location">city</string>
+    <string name="app_name">CardInfoApp</string>
+    <string name="requests">COMPLETED REQUESTS</string>
+    <string name="card_number">BIN/IIN</string>
+    <string name="id_request">ID:</string>
+    <string name="id_of_request">id of request</string>
+    <string name="bin">"Bin/IIN: "</string>
+    <string name="bin_card">bin of card</string>
+    <string name="request_not_completed">The request was not completed</string>
+    <string name="data_is_empty">Database is empty</string>
+    <string name="error">Something is wrong</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
